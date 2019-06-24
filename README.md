@@ -1,0 +1,2 @@
+# scrapy
+该项目主要是采用了scrapy爬虫框架来实现数据的爬取，然后使用django和echart.s来实现数据的可视化操作
